@@ -38,3 +38,31 @@ HG14 is a Python-based subdomain enumeration tool that helps identify subdomains
 ```bash
 git clone https://github.com/himanshigupta14/Subdomain-Enumeration.git
 cd Subdomain-Enumeration
+```
+## Usage/Subd.py
+- run the script:
+  ```bash
+  python subd.py
+- Enter the target /website url when promted.
+  ```bash
+  [+]Enter a website URL: example.com
+  ```
+- The script will output:
+    - Subdomain: Extracted domain 
+    - Domains: Extracted domains
+## Usage/Subdomain.py
+-run the script:
+  ```bash
+  python subdomain.py
+  ```
+- Enter the target /website url when promted.
+  ```bash
+  [+]Enter a website URL: example.com
+  ```
+-Key difference in the upgraded script
+  -Bypasses SSL verification for the sites with invalid SSL certificates.
+  -Adds a user-agent header to request for better compatibility.
+-The script will output:
+  - Subdomain: Extracted domain 
+  - Domains: Extracted domains
+  

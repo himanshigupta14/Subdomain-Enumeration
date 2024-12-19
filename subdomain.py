@@ -7,7 +7,7 @@ import requests.packages.urllib3
 # Disable SSL certificate verification
 requests.packages.urllib3.disable_warnings()
 
-text = pyfiglet.figlet_format("ZWN _ CRAWL")
+text = pyfiglet.figlet_format("HG14")
 print(text)
 
 def normalize_url(url):

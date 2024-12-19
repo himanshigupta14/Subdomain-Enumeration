@@ -4,6 +4,11 @@
 ## Subdomain.py
 ![Subdomain-Enumeration](picture2.png)
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Fetures](#features)
+- [Prerequisites](#prerequisites)    
+
 ## Introduction 
 HG14 is a Python-based subdomain enumeration tool that helps identify subdomains and domains linked to a given website. It uses HTML parsing techniques to extract URLs and identify subdomains for security assessments and reconnaissance.
 

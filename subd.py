@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urlunparse
 import pyfiglet
 
-text = pyfiglet.figlet_format("ZWN _ CRAWL")
+text = pyfiglet.figlet_format("HG14")
 print(text)
 
 def normalize_url(url):

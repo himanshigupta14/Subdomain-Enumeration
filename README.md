@@ -65,4 +65,9 @@ cd Subdomain-Enumeration
 -The script will output:
   - Subdomain: Extracted domain 
   - Domains: Extracted domains
-  
+## Notes
+-The tool automatically normalizes the URL (e.g., adds http:// if missing).
+-Ensure you have proper authorization before scanning domains. Unauthorized scanning is illegal and unethical.
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality.
